@@ -40,7 +40,7 @@ Make sure you have **Python 3** installed on your system. You can download it fr
 1.  **Clone the repository (or download the code)**
     If you have Git installed, you can clone the repository. Otherwise, just download the `web_borwser.py` file.
     ```sh
-    git clone [https://your-repository-url.git](https://your-repository-url.git)
+    git clone https://github.com/coderkeshav-yt/web-browser.git
     cd your-repository-directory
     ```
 
