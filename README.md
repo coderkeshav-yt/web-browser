@@ -2,7 +2,6 @@
 
 A feature-rich, modern web browser built from scratch using Python, PyQt5, and QtWebEngine. This project demonstrates how to create a good-looking, functional desktop application with a custom dark theme, tabs, and modern user experience features.
 
-!(https://i.imgur.com/gKzBvPj.png)
 
 ---
 
@@ -39,7 +38,7 @@ Make sure you have **Python 3** installed on your system. You can download it fr
 ### Installation
 
 1.  **Clone the repository (or download the code)**
-    If you have Git installed, you can clone the repository. Otherwise, just download the `gemini_browser_pro.py` file.
+    If you have Git installed, you can clone the repository. Otherwise, just download the `web_borwser.py` file.
     ```sh
     git clone [https://your-repository-url.git](https://your-repository-url.git)
     cd your-repository-directory
@@ -72,7 +71,7 @@ Make sure you have **Python 3** installed on your system. You can download it fr
 Once the setup is complete, you can run the browser with the following command:
 
 ```sh
-python gemini_browser_pro.py
+python web_borwser.py
 ```
 This will launch the browser application window.
 
